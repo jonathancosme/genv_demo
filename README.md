@@ -8,6 +8,6 @@ Docs: run-ai.github.io/genv
   
 The 11-minute video can be found [here](https://youtu.be/_WZR_aO73LU).  
   
-Here is a pdf of the [genv cheat sheet](docs/genv_cheat_sheet.pdf)  
+Below is an image of the [genv cheat sheet](docs/genv_cheat_sheet.pdf)  
   
 ![](docs/genv_cheat_sheet.png)  
