@@ -2,9 +2,9 @@
 
 An intro and live demo of genv, an open-source tool for GPU management.  
 
-Github: github.com/run-ai/genv  
-Website: gpuenv.com  
-Docs: run-ai.github.io/genv  
+Github: [github.com/run-ai/genv](github.com/run-ai/genv)  
+Website: g[puenv.com](gpuenv.com)  
+Docs: [run-ai.github.io/genv](run-ai.github.io/genv)  
   
 The 11-minute video can be found [here](https://youtu.be/_WZR_aO73LU).  
   
